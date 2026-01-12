@@ -1,0 +1,23 @@
+# Ignore Compiled Java files
+*.class
+
+# Ignore Build folders
+bin/
+build/
+target/
+dist/
+
+# Ignore Eclipse-specific files
+.settings/
+.project
+.classpath
+.metadata/
+
+# Ignore IntelliJ-specific files
+.idea/
+*.iml
+
+# Ignore Tomcat temporary files
+test-output/
+tmp/
+*.log
